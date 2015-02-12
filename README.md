@@ -11,8 +11,7 @@ A simple command-line application in Python that searches through a given direct
 
 ## Upcoming Features ##
  
- * Allow adjustable number of results returned
- * Allow user to filter results by file extension
+ * Allow user to input what directory to search through
  * Allow user to choose certain folders (and their subfolders) to ignore
  
 
